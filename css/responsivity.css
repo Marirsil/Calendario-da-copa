@@ -2,5 +2,6 @@
     main {
         flex-direction: row;
         max-width: 42rem;
+        flex-wrap: wrap;
     }
 }
